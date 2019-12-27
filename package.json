@@ -1,0 +1,19 @@
+{
+  "name": "react-react-native-device-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "peerDependencies": {
+    "react-device-detect": "*",
+    "react-native-device-info": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
