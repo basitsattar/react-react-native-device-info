@@ -10,6 +10,7 @@ export default function getDeviceInfo() {
         model: getModel(),
         isTablet: isTablet(),
         brand: getBrand(),
-        buildNumber: getBuildNumber()
+        buildNumber: getBuildNumber(),
+        isMobileApp: true
     }
 }
